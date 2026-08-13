@@ -1,1 +1,2 @@
 // 1. Apne InitBases (Scanner) ke liye sirf comma lagake likh de
+0xA9870BC, 0xABFF3C0, 0xA98D0CC, 0xA988FDC, 0xA98D0CC, 0xA988FDC, 0xA997484, 0xA986B7C, 0xA986E9C
